@@ -47,4 +47,8 @@ https://docs.google.com/spreadsheets/d/16EuLtLkF3nOp9czery5JTCkhsf7NpRam4VvXGgA2
 [アプリの改善案_Googleスプレッドシート]
 https://docs.google.com/spreadsheets/d/14rHorje6nrb2VqGwnouRmNAFGWE0Uuo88TwHPlU9ivA/edit?usp=sharing
 
+- 活用した生成AIとその用途
+  - ChatGPT：要件定義、設計、各種リサーチ
+  - v0：アプリのモック作成
+  - GitHub Copilot Chat：ローカル環境でのコードの修正相談
 
