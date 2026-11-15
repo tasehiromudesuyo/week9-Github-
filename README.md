@@ -12,3 +12,6 @@
 
 ## サイトURL
 - https://gishisougutoiawaseapp-portfolio.vercel.app/
+
+## アプリ画面
+-![アプリ画面](?raw=true)
